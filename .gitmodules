@@ -1,0 +1,9 @@
+[submodule "payment-gateway"]
+	path = payment-gateway
+	url = https://github.com/rahu-I/payment-gateway.git
+[submodule "create-vanilla-app"]
+	path = create-vanilla-app
+	url = https://github.com/rahu-I/create-vanilla-app.git
+[submodule "no-scaffold"]
+	path = no-scaffold
+	url = https://github.com/rahu-I/no-scaffold.git
