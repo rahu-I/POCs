@@ -34,14 +34,14 @@ A minimalist project showing that `package.json` is simply a manifest file that 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Each project is independent and has its own setup instructions. Navigate to the specific project directory and follow its README for installation and usage.
 
-## 👨‍💻 Author
+## Author
 
 **Rahul Agarwal**
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to explore, learn, and suggest improvements! If you find issues or have ideas for new POCs, contributions are welcome.
